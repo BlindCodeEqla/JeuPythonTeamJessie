@@ -29,8 +29,8 @@ def story (characters):
 		return "Quand vous avez passé la bonne porte, vous avancez toujours dans un de ces couloirs interminable aux murs couverts de chiffres mystérieux. \n Ce couloir s'ouvre finalement sur une grande pièce au milieu de laquelle se trouve un nouvel individu."
 	elif characters =="Johhny":
 		return "bonjour, alors pas trop fatigué par ton aventure?\n  He me présente Johnny Biguite je suis le gardien de ce site et pour pourvoir passer tu devras repondre à cette énigme.\n "
-	elif characters == "enigmejohnny":
-		return "Cette liste de mots ont un mot commun, trouves-le et je te laisse passer : 1. télévision \n 2. concert \n 3. planning \n 4. politique \n 5. informatique \n 6. windows \n 7. python"
+	elif characters == "enigmjohnny":
+		return "Cette liste de mots ont un mot commun, trouves-le et je te laisse passer : 1. télévision \n 2. concert \n 3. planning \n 4. politique \n 5. informatique \n 6. windows \n 7. python  \n Quel est le mot ? "
 	elif characters == "ifjohnnywin":
 		return "Bravo! je te laisse passer nous sommes guitte!\n  Une fois passé l'épreuve, vous continuez à déambuler dans les couloirs pour finalement parvenir à une nouvelle porte.\n Malheureusement celle-ci est bloquée par un homme aux cheveux grisonnants tenant à la main, deux tablettes de chocolat."
 	elif characters == "Alain":

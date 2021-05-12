@@ -33,7 +33,7 @@ def jessie():
     if porte== "gauche":
         print("En ouvrant la porte, une avalanche de FATAL ERROR t'ensevelis...tu as perdu.")
         return True
-    if porte== "droite":
+    elif porte== "droite":
         print("Tu as trouvé la bonne porte, tu peux continuer l'aventure!")
         return False
         
