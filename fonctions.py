@@ -51,9 +51,7 @@ def Guess_number_sup():
 	except ValueError:
 		print("C'est un chiffre qu'il faut entrer !")
 
-def Guess_word(_word):
-
-
+#def Guess_word(_word):
 
 
 def enigm(goodanswer):
@@ -63,13 +61,6 @@ def enigm(goodanswer):
 		return False 
 	else:
 		return True
-		
->>>>>>> 7bbe7d31c10480934ee30ec4b2b5aef56b00ad18
-
-	
-	
-
-
 
 # Swap("Blindcode")
 
@@ -77,7 +68,7 @@ goodisaacanswer="les yeaux"
 
 def Isaacenigm ():
 	userinput=input((enigmissac)
-	if userinput==goodisaacanswer
+	if userinput==goodisaacanswer :
 		print(ifissacwin)
 	else:
 		break
