@@ -1,0 +1,137 @@
+Blindcode4data Entertainment Studio® présente : 
+LE DONJON DE FORT DATA
+
+Tapez "c" pour continuer: 
+Création de personnage : 
+Choisissez votre nom :
+Choisissez votre sexe (H-F-X):
+Choisissez votre âge : 
+Choisissez votre couleur de cheveux (tapez la lettre correspondante à votre choix) :
+a: Blonds
+b: Bruns
+c: Noirs
+d: Blancs
+e: Châtins
+f: Rouges
+g: Bleus 
+Choisissez une race (tapez la lettre correspondante à votre choix): 
+a: Elfe
+b: Humain
+c: Nain
+d: Gnome
+Vous êtes (nom), un(e) (race) de (age) ans aux cheveux (couleur).
+Etes vous satisfait de votre choix? (oui-non)
+-> si non recommencer création de personnage.
+
+Après avoir parcouru un long chemin à travers la forêt, vous arrivez en vue d'une immense tour sombre et menacante, encerclé par une douves.
+Vous venez d'arriver devant le donjon de Fort Data...
+Le pont levis est baissé mais une silouhette semble bloquer le chemin menant à la porte. 
+En vous approchant vous vous rendez compte qu'il s'agit d'une femme. Arrivé à sa hauteur elle lève les yeux vers vous:
+
+"Bonjour voyageur. Derrière moi se trouve le donjon de Fort Data.
+Je m'appele Harielle et je suis la gardienne de ces lieux.
+Si vous souhaitez entrer, vous devrez d'abord résoudre cet anagramme :"
+Elle tend la main vers une stèle où sont indiqué des lettres étranges.
+Tapez les lettres dans l'ordre pour former un mot.
+aaiobcddflnrt
+(combien de tentatives? indices?)
+
+Une fois l'anagramme résolu, Harielle s'écarte pour vous laisser entrer. 
+Après avoir passé la porte, vous vous trouvez dans un couloir illuminé par des torches. Sur les murs, vous pouvez voir gravés dans la pierre,
+des séries de 1 et de 0 un peu partout. 
+Après quelques mètres, vous tombez nez à nez avec une jeune demoiselle qui tient dans chaque main, un pot contenant une boule de glace:
+"Bonjour, je m'appelle Eleochat.
+nous allons voir si tu as de la chance.
+je te présente 2 boules de glace.
+la première est au chocolat, la 2ème est à la pistache.
+Choisis bien car l'une d'entre elles te  tuera tandis que l'autre te permettra de continuer ton aventure."
+a: Chocolat
+b: Pistache
+"Félicitation, vous pouvez continuer mais...faites attention au serpent, ce n'est pas dans son programme de vou laissez passer.
+Sauf si vous utilisez le bon langage!"
+
+La demoiselle s'écarte pour vous laisser passer et après quelques mètres vous appercevez une grande porte devant laquelle se dresse un énorme serpent.
+Saisissez le mot de passe:
+...
+
+Le serpent s'écarte en sifflant et vous pouvez enfin passer la porte. 
+Derrière la porte apparait une grande salle où se trouvent alignées, des statues de pierre représentants des personnages connus.
+
+Au milieu de la pièce se trouve un homme en armure. 
+"bonjour, je suis Serge le chevalier Html
+bienvenue dans la salle de nos ancêtre.
+tu touvera ici les plus brillants esprits de notre confrérie.
+regarde sur ta gauche tu y verras la statue de Louis Braille.
+Mmais pour accéder au niveau suivant, tu devras trouver qui se cache sous le voile de cette statue.
+ne t'inquiète pas, je vais t'aider à accéder à la réponse.
+"je suis né à New-York, ma mère est décédée quand j'avais 6 ans et j'ai été élevé par mon père.
+je suis devenu un avocat réputé et un justicier. mon vrai nom est Matthew Murdock. je suis un super héros bien que je ne sois ni Bruno, ni Masshum.
+qui suis-je?
+
+Une fois la bonne réponse trouvée, le chevalier Serge s'écarte et vous ouvre une nouvelle porte. 
+Dans le couloir suivant se trouve une autre personne qui vous barra la route.
+
+"Enfin! te voilà!
+Il était temps!
+Je suis maximou le Maître des dés.
+lance les dés et si ton score est supérieur à 6, tu pourras continuer l'aventure.
+dans le cas contraire, tu devras retenter ta chance une autre fois."
+
+Une fois réussi, l'étrange individu vous laisse enfin passer. Pluis loin dans le couloir se trouve une nouvelle porte derière laquelle est assis une autre personne qui vous interpelle: 
+"bienvenu dans mon antre!
+Je suis Jessie le fabuleux.
+Mon épreuve sera simple.
+pour sortir d'ici, tu as le choix entre 2 portes.
+une te permettra de sortir d'ici sans encombre, l'autre, tu t'en doutes te conduiras directement dans les oubliettes de ce fort.
+tu veux un indice?
+lol, tu es drôle.
+je t'en prie, fais ton choix...
+
+Quand vous avez passé la bonne porte, vous avancez toujours dans un de ces couloirs interminable aux murs couverts de chiffres mystérieux.
+Ce couloir s'ouvre finalement sur une grande pièce au milieu de laquelle se trouve un nouvel individu.
+
+"bonjour, alors pas trop fatigué par ton aventure?
+je me présente Johnny Git
+je suis le gardien de ce site et pour pourvoir passer tu devras repondre à cette énigme.
+
+Cette liste de mots ont un mot commun, trouves-le et je te laisse passer. 
+télévision - concert -planning - politique - informatique - windows - python
+
+Bravo! je te laisse passer nous sommes guitte!"
+
+Une fois passé l'épreuve, vous continuez à déambuler dans les couloirs pour finalement parvenir à une nouvelle porte.
+Malheureusement celle-ci est bloquée par un homme aux cheveux grisonnants tenant à la main, une tablette de chocolat.
+
+"Bonjour, je suis Alinou le Calinou.
+je suis tout gentil mais un peu espiègle.
+j'adoooooooore le chocolat, et toi?
+mais préfères-tu le chocolat blanc ou le chocolat noir?
+attention ils sont tous les deux délicieux mais un d'entre eux est une tuerie qui te laissera sur place.
+choisis bien!"
+
+Votre choix fait, il vous laisse enfin passer la porte. 
+Celle-ci s'ouvre sur une grande pièce plongée dans l'obscurité mais vous parvenez à voir une silouhete bien dissimulée dans l'ombre.
+
+"Nous ne pensions pas que tu serais arrivé jusqu'ici.
+Tu as presque mérité d'accéder au Saint Graal.
+Mais pour cela,il te reste une dernière énigme à résoudre:
+
+nous sommes 2 frères. Nous sommes de vrais jumeaux bien que parfois nous sommes différents.
+nous sommes toujours l'un à côté de l'autre mais nous ne pouvons pas nous voir.
+Notre voisin est troué à 2 endroits, mais l'entente est bonne, nous arrivons à nous sentir.
+nous sommes considérés comme les miroirs de l'âme.
+Qui sommes-nous?
+
+Quand la réponse est donnée, une lumière aveuglante surgit de l'obscurité. Vous pouvez alors voir face à vous une table de pierre.
+Sur celle-ci apparait un calice orné d'aun oeil ouvert. De ce calice émane la lumière qui est apparue et illumine désormais toute la pièce.
+Félicitations, vous avez terminé le jeu.
+
+CREDITS
+
+Une production de Blincode4data Entertainment Studio®
+En collaboration avec EQLA Production® & Le Forem Inc®
+Développé par:
+Alain Dufrane
+Bruno Defalque
+Jessie Bakashika
+Maxime Borsen
