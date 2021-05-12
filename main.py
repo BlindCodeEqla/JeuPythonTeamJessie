@@ -1,16 +1,14 @@
 
 from fonctions import *
-from personnage import personnage
+import personnage
 from story import *
 import time
-print("BLINDCOODE4DATA ENTERTAINMENT STUDIO®")
-time.sleep(2)
-print("PRESENTE:") 
-time.sleep(2)
-print("LE DONJON DE FORT DATA")
+print(story("presentation"))
 
-personnage()
-print(story())
+# personnage.personnage()
+
+print(story("debut"))
+
 
 
 while(True):
@@ -20,5 +18,7 @@ while(True):
 while(True):
     if not(Chance_Maximoum()):
         break
+
+
 
 

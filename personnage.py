@@ -52,4 +52,3 @@ def personnage():
     if creation== "non":
         personnage()
     
-personnage()

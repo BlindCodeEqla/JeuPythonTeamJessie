@@ -5,7 +5,7 @@ def story (characters):
 		return "Après avoir parcouru un long chemin à travers la forêt, vous arrivez en vue d'une immense tour sombre et menacante, encerclé par une douves. \n Vous venez d'arriver devant le donjon de Fort Data... \n Le pont levis est baissé mais une silouhette semble bloquer le chemin menant à la porte. \n En vous approchant vous vous rendez compte qu'il s'agit d'une femme. Arrivé à sa hauteur elle lève les yeux vers vous: "
 	elif characters == "Harielle":
 		return "Bonjour voyageur. Derrière moi se trouve le donjon de Fort Data. \n Je m'appele Harielle et je suis la gardienne de ces lieux.\n Si vous souhaitez entrer, vous devrez d'abord résoudre cet anagramme : \n Elle tend la main vers une stèle où sont indiqué des lettres étranges. \n Tapez les lettres dans l'ordre pour former un mot."
-	elif charaters == "ifhariellewin":
+	elif characters == "ifhariellewin":
 		return "Une fois l'anagramme résolu, Harielle s'écarte pour vous laisser entrer.\n Après avoir passé la porte, vous vous trouvez dans un couloir illuminé par des torches. \n Sur les murs, vous pouvez voir gravés dans la pierre,des séries de 1 et de 0 un peu partout.  \n Après quelques mètres, vous tombez nez à nez avec une jeune demoiselle qui tient dans chaque main, un pot contenant une boule de glace:"
 	elif characters =="Eleonore":
 		return"Bonjour, je m'appelle Eleochat.\n nous allons voir si tu as de la chance. \n Je te présente 2 boules de glace. \n la première est au chocolat, la 2ème est à la pistache. \n Choisis bien car l'une d'entre elles te  tuera tandis que l'autre te permettra de continuer ton aventure. "
@@ -23,7 +23,7 @@ def story (characters):
 		return "Enfin!\n  Te voilà! \n Il était temps! \n Je suis maximou le Maître des dés. \n Lance les dés et si ton score est supérieur à 6, tu pourras continuer l'aventure. \n dans le cas contraire, tu devras retenter ta chance une autre fois."
 	elif characters =="ifmaximewin":
 		return "Une fois réussi, l'étrange individu vous laisse enfin passer. Pluis loin dans le couloir se trouve une nouvelle porte derière laquelle est assis une autre personne qui vous interpelle: "
-	elif charcaters == "Jessie":
+	elif characters == "Jessie":
 		return "bienvenu dans mon antre! \n Je suis Jessie le fabuleux. \n Mon épreuve sera simple. \n pour sortir d'ici, tu as le choix entre 2 portes. \n Une te permettra de sortir d'ici sans encombre, l'autre, tu t'en doutes te conduiras directement dans les oubliettes de ce fort. \n tu veux un indice? \n lol, tu es drôle. je t'en prie, fais ton choix..." 
 	elif characters =="ifjessiewin":
 		return "Quand vous avez passé la bonne porte, vous avancez toujours dans un de ces couloirs interminable aux murs couverts de chiffres mystérieux. \n Ce couloir s'ouvre finalement sur une grande pièce au milieu de laquelle se trouve un nouvel individu."

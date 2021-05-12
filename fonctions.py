@@ -1,7 +1,7 @@
 import random
 from story import *
 def Chance_Eleochat():
-	print(story(Eleonore))
+	print(story("Eleonore"))
 	input("\n Fais enter pour (re)lancer les dés")
 	_number = random.randint(1, 2)
 	
@@ -15,8 +15,7 @@ def Chance_Eleochat():
 		return True
 
 def Chance_Maximoum():
-	print("Enfin! te voilà! Il était temps!  \n Je suis maximoum le Maître des dés. \n lance les dés et si ton score est supérieur à 6, tu pourras continuer l'aventure.dans le cas contraire, tu devras retenter ta chance une autre fois.")
-
+	print(story("maximoum"))
 	input("Fais enter pour re(lancer) les dés")
 	_number = random.randint(1, 12) 
 	print(f"vous avez lancé le dé sur {_number}")
@@ -43,6 +42,7 @@ def Guess_number_sup():
 		print("C'est un chiffre qu'il faut entrer !")
 
 def Guess_word(_word):
+	pass
 
 
 
@@ -55,7 +55,6 @@ def enigm(goodanswer):
 	else:
 		return True
 		
->>>>>>> 7bbe7d31c10480934ee30ec4b2b5aef56b00ad18
 
 	
 	
@@ -65,4 +64,3 @@ def enigm(goodanswer):
 # Swap("Blindcode")
 
 
-# Guess_number()
