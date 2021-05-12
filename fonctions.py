@@ -43,8 +43,14 @@ def Guess_number_sup():
         print("C'est un chiffre qu'il faut entrer !")
 
 def Guess_word(_word):
-    pass
+goodanswer="programme"
 
+def enigm(goodanswer):
+	userinput=input(enigmgohnny)
+	if userinput==goodanswer:
+		print(ifjohnnywin)
+		else:
+			break
 
     
     
