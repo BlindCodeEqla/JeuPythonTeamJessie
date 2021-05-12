@@ -58,5 +58,13 @@ def enigm(goodanswer):
 
 # Swap("Blindcode")
 
+goodisaacanswer="les yeaux"
+
+def Isaacenigm ():
+	userinput=input((enigmissac)
+	if userinput==goodisaacanswer
+		print(ifissacwin)
+	else:
+		break
 
 # Guess_number()
