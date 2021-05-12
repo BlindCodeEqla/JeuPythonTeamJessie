@@ -5,7 +5,7 @@ from story import *
 import time
 print(story("presentation"))
 
-# personnage.personnage()
+personnage.personnage()
 
 print(story("debut"))
 
@@ -41,9 +41,9 @@ while(True):
     if not(jessie()):
         break
  
-while(True):
-    if not(enigmjohnny()):
-        break
+# while(True):
+#     if not(enigmjohnny()):
+#         break
 
 while(True):
     if not(Alain()):

@@ -103,7 +103,7 @@ def Isaacenigm ():
 	goodisaacanswer="yeux"
 	userinput=input(story("enigmissac"))
 	if userinput==goodisaacanswer:
-		print(ifissacwin)
+		print(story("ifissacwin"))
 		return False
 	else:
 		return True 
