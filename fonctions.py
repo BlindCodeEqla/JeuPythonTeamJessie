@@ -67,8 +67,8 @@ def enigm(goodanswer):
 goodisaacanswer="les yeaux"
 
 def Isaacenigm ():
-	userinput=input((enigmissac)
-	if userinput==goodisaacanswer :
+	userinput=input(enigmissac)
+	if userinput==goodisaacanswer:
 		print(ifissacwin)
 	else:
 		break
