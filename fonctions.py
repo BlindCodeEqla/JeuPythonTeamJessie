@@ -36,11 +36,11 @@ def jessie():
         print("Tu as trouvé la bonne porte, tu peux continuer l'aventure!")
         return False
         
-def Swap(_word):  
+def Swap():  
 	_original = "BLINDCODE"
 	_anagram = "EDOCILBND"
 	user= input("Entre l'annagramme")
-	user.upper()
+	user = user.upper()
 	if user == _original:
 		print("Vous avez gagné")
 		return False
@@ -61,14 +61,30 @@ def Guess_word(_word):
 
 
 
-def enigm(goodanswer):
+def enigmjohnny():
 	userinput=input(story("enigmjohnny"))
-	goodanwser = "yeux"
+	goodanwser = "programme"
 	if userinput==goodanswer:
 		print(story(ifjohnnywin))
 		return False 
 	else:
 		return True
+
+def Alain():
+	print(story("Alain"))
+	input("\n Fais enter pour (re)lancer les dés")
+	_number = random.randint(1, 2)
+	
+	if _number == 1:
+		print("\n Le choix s'est porté sur le chocolat blanc ")
+		print("Tu as gagné")
+		print(story("ifalainwin"))
+		return False
+	else:
+		print("\nLe choix s'est porté sur le chocolat noir")
+		print("Tu as perdu")
+		return True
+
 
 	
 		
@@ -82,7 +98,7 @@ def enigm(goodanswer):
 
 
 def Isaacenigm ():
-	
+
 	goodisaacanswer="yeux"
 	userinput=input(story("enigmissac"))
 	if userinput==goodisaacanswer:
@@ -91,3 +107,15 @@ def Isaacenigm ():
 	else:
 		return True 
 
+
+
+
+def snakeenigm ():
+	goodsnakeanswer="break"
+	userinput=input("Quel est le mot magique pour arrêter mon programme reptilien ? \n")
+	if userinput==goodsnakeanswer:
+		print(story("ifsnakewin"))
+		return False
+	else:
+		print("Ce n'est pas ça")
+		return True

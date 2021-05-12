@@ -27,7 +27,7 @@ def story (characters):
 		return "bienvenu dans mon antre! \n Je suis Jessie le fabuleux. \n Mon épreuve sera simple. \n pour sortir d'ici, tu as le choix entre 2 portes. \n Une te permettra de sortir d'ici sans encombre, l'autre, tu t'en doutes te conduiras directement dans les oubliettes de ce fort. \n tu veux un indice? \n lol, tu es drôle. je t'en prie, fais ton choix..." 
 	elif characters =="ifjessiewin":
 		return "Quand vous avez passé la bonne porte, vous avancez toujours dans un de ces couloirs interminable aux murs couverts de chiffres mystérieux. \n Ce couloir s'ouvre finalement sur une grande pièce au milieu de laquelle se trouve un nouvel individu."
-	elif characers =="Johhny":
+	elif characters =="Johhny":
 		return "bonjour, alors pas trop fatigué par ton aventure?\n  He me présente Johnny Biguite je suis le gardien de ce site et pour pourvoir passer tu devras repondre à cette énigme.\n "
 	elif characters == "enigmejohnny":
 		return "Cette liste de mots ont un mot commun, trouves-le et je te laisse passer : 1. télévision \n 2. concert \n 3. planning \n 4. politique \n 5. informatique \n 6. windows \n 7. python"
@@ -40,7 +40,7 @@ def story (characters):
 	elif characters == "Isaac":
 		return "Nous ne pensions pas que tu serais arrivé jusqu'ici. Je suis Issac le grand \n Tu as presque mérité d'accéder au Saint Graal. \n Mais pour cela,il te reste une dernière énigme à résoudre"
 	elif characters == "enigmissac":
-		return "nous sommes 2 frères. Nous sommes de vrais jumeaux bien que parfois nous sommes différents.\n nous sommes toujours l'un à côté de l'autre mais nous ne pouvons pas nous voir.\n Notre voisin est troué à 2 endroits, mais l'entente est bonne, nous arrivons à nous sentir.\n Nous sommes considérés comme les miroirs de l'âme.\n Qui sommes-nous?"
+		return "nous sommes 2 frères. Nous sommes de vrais jumeaux bien que parfois nous sommes différents.\n nous sommes toujours l'un à côté de l'autre mais nous ne pouvons pas nous voir.\n Notre voisin est troué à 2 endroits, mais l'entente est bonne, nous arrivons à nous sentir.\n Nous sommes considérés comme les miroirs de l'âme.\n Qui sommes- nous? \n nous sommes les ... :"
 	elif characters == "ifisaacwin":
 		return "Quand la réponse est donnée, une lumière aveuglante surgit de l'obscurité. Vous pouvez alors voir face à vous une table de pierre. \n Sur celle-ci apparait un calice orné d'aun oeil ouvert. De ce calice émane la lumière qui est apparue et illumine désormais toute la pièce.\n Félicitations, vous avez terminé le jeu."
 	elif characters == "fin":

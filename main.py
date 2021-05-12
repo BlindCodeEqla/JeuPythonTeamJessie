@@ -22,15 +22,39 @@ while(True):
         break
 
 while(True):
+    if not(snakeenigm()):
+        break
+
+
+#Serge
+
+while(True):
     if not(Chance_Maximoum()):
         break
 
 
+
+while(True):
+    if not(jessie()):
+        break
+ 
+while(True):
+    if not(enigmjohnny()):
+        break
+
+while(True):
+    if not(Alain()):
+        break
+
+while(True):
+    if not(Isaacenigm()):
+        break
+
 print(story("ifhariellewin"))
 
 print(story("ifsnakewin"))
-
-
+ 
+print("ifisaacwin")
 print(story("fin"))
 
 
