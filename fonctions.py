@@ -30,12 +30,12 @@ def Chance_Maximoum():
 
 def jessie():
     porte= input("Choisis la bonne porte, tape \"gauche\" ou \"droite\" pour choisir l'une des portes: ")
-    if porte== "gauche":
-        print("En ouvrant la porte, une avalanche de FATAL ERROR t'ensevelis...tu as perdu.")
-        return True
-    elif porte== "droite":
+    if porte== "droite":
         print("Tu as trouvé la bonne porte, tu peux continuer l'aventure!")
         return False
+    else :
+        print("En ouvrant la porte, une avalanche de FATAL ERROR t'ensevelis...tu as perdu.")
+        return True
         
 def Swap():  
 	_original = "BLINDCODE"
