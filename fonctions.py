@@ -37,12 +37,16 @@ def jessie():
         return False
         
 def Swap(_word):  
-	_original = _word.upper()
-	_anagram = list(_word)
-	print(_anagram)
-	_anagram = random.shuffle(_anagram)
-	print(_anagram)
-	
+	_original = "BLINDCODE"
+	_anagram = "EDOCILBND"
+	user= input("Entre l'annagramme")
+	user.upper()
+	if user == _original:
+		print("Vous avez gagné")
+		return False
+	else:
+		print("Ce n'est pas ça")
+		return True
 
 def Guess_number_sup(): 
 	_number = random.randint(1,12)
@@ -58,12 +62,15 @@ def Guess_word(_word):
 
 
 def enigm(goodanswer):
-	userinput=input(story("enigmgohnny"))
+	userinput=input(story("enigmjohnny"))
+	goodanwser = "yeux"
 	if userinput==goodanswer:
 		print(story(ifjohnnywin))
 		return False 
 	else:
 		return True
+
+	
 		
 
 	
@@ -73,13 +80,14 @@ def enigm(goodanswer):
 
 # Swap("Blindcode")
 
-goodisaacanswer="yeux"
 
 def Isaacenigm ():
 	
-	userinput=input(story(enigmissac))
-	if userinput==goodisaacanswer
+	goodisaacanswer="yeux"
+	userinput=input(story("enigmissac"))
+	if userinput==goodisaacanswer:
 		print(ifissacwin)
+		return False
 	else:
-		break
+		return True 
 

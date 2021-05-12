@@ -12,6 +12,12 @@ print(story("debut"))
 
 
 while(True):
+    print(story("Harielle"))
+    if not(Swap()):
+        break
+
+
+while(True):
     if not(Chance_Eleochat()):
         break
 
@@ -19,13 +25,13 @@ while(True):
     if not(Chance_Maximoum()):
         break
 
-while(True):
-    print(story("Harielle"))
-    if not(Swap("Blindcode")):
-        break
 
 print(story("ifhariellewin"))
 
+print(story("ifsnakewin"))
+
+
+print(story("fin"))
 
 
 
