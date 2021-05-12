@@ -1,7 +1,7 @@
 import random
 from story import *
 def Chance_Eleochat():
-    
+    print(story(Eleonore))
     input("\n Fais enter pour (re)lancer les dés")
     _number = random.randint(1, 2)
     
@@ -43,7 +43,7 @@ def Guess_number_sup():
         print("C'est un chiffre qu'il faut entrer !")
 
 def Guess_word(_word):
-    pass
+    pass    
 
 
     
