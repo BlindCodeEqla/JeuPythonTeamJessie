@@ -64,9 +64,9 @@ def Guess_word(_word):
 
 def enigmjohnny():
 	userinput=input(story("enigmjohnny"))
-	goodanwser = "programme"
+	goodanswer = "programme"
 	if userinput==goodanswer:
-		print(story(ifjohnnywin))
+		print(story("ifjohnnywin"))
 		return False 
 	else:
 		return True

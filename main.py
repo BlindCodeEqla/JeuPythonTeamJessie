@@ -41,9 +41,9 @@ while(True):
     if not(jessie()):
         break
  
-# while(True):
-#     if not(enigmjohnny()):
-#         break
+while(True):
+    if not(enigmjohnny()):
+        break
 
 while(True):
     if not(Alain()):
