@@ -27,6 +27,15 @@ def Chance_Maximoum():
         print(f"tu as perdu, car {_number} est plus petit que 6")
         return True 
 
+def jessie():
+    porte= input("Choisis la bonne porte, tape \"gauche\" ou \"droite\" pour choisir l'une des portes: ")
+    if porte== "gauche":
+        print("En ouvrant la porte, une avalanche de FATAL ERROR t'ensevelis...tu as perdu.")
+        return True
+    if porte== "droite":
+        print("Tu as trouvé la bonne porte, tu peux continuer l'aventure!")
+        return False
+        
 def Swap(_word):  
     _original = _word.upper()
     _anagram = list(_word)
