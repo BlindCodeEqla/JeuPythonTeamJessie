@@ -83,3 +83,15 @@ def snakeenigm ():
 		print(story(ifsnakewin))
 	else:
 		break
+
+
+
+
+goodsergeanswer= "daredevil"
+
+def sergeenigm ():
+	userinput=input(story(enigmserge))
+	if userinput==goodsergeanswer:
+		print(story(ifsergewin))
+	else:
+		break
