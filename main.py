@@ -24,6 +24,7 @@ while(True):
     if not(Swap("Blindcode")):
         break
 
+print(story("ifhariellewin"))
 
 
 

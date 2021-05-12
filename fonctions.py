@@ -8,6 +8,7 @@ def Chance_Eleochat():
 	if _number == 1:
 		print("\n Le choix s'est porté sur la boule au chocolat")
 		print("Tu as gagné")
+		print(story("ifeleonerwin"))
 		return False
 	else:
 		print("\nLe choix s'est porté sur la boule de pistache")
@@ -57,7 +58,7 @@ def Guess_word(_word):
 
 
 def enigm(goodanswer):
-	userinput=input(story(enigmgohnny))
+	userinput=input(story("enigmgohnny"))
 	if userinput==goodanswer:
 		print(story(ifjohnnywin))
 		return False 
@@ -72,10 +73,11 @@ def enigm(goodanswer):
 
 # Swap("Blindcode")
 
-goodisaacanswer="les yeaux"
+goodisaacanswer="yeux"
 
 def Isaacenigm ():
-	userinput=input((enigmissac)
+	
+	userinput=input(story(enigmissac))
 	if userinput==goodisaacanswer
 		print(ifissacwin)
 	else:
