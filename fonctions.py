@@ -1,17 +1,5 @@
 import random
 
-def Swap(_word):  
-    _original = _word.upper()
-    _anagram = list(_word)
-    print(_anagram)
-    _anagram = random.shuffle(_anagram)
-    print(_anagram)
-    
-
-
-def Guess_word(_word):
-    pass
-
 def Chance_Eleochat():
     print("bonjour, je m'appelle Eleochat. \nnous allons voir si tu as de la chance. \n je te présente 2 boules de glace. \n la première est au chocolat, la 2ème est à la pistache. \n Choisis bien car l'une d'entre elles te ferai mourir tandis que l'autre te permettra de continuer ton aventure.")
     input("\n Fais enter pour (re)lancer les dés")
@@ -39,16 +27,27 @@ def Chance_Maximoum():
         print(f"tu as perdu, car {_number} est plus petit que 6")
         return True 
 
+def Swap(_word):  
+    _original = _word.upper()
+    _anagram = list(_word)
+    print(_anagram)
+    _anagram = random.shuffle(_anagram)
+    print(_anagram)
+    
+
 def Guess_number_sup(): 
     _number = random.randint(1,12)
     try:
         _user = int(input("Entre un chiffre entre 1 et 12"))
     except ValueError:
         print("C'est un chiffre qu'il faut entrer !")
-    
-    
 
-Chance_Eleochat()
+def Guess_word(_word):
+    pass
+
+
+    
+    
 
 
 # Swap("Blindcode")

@@ -14,7 +14,7 @@ while(True):
         break
 
 while(True):
-    if not(Chance_Maximoum())
+    if not(Chance_Maximoum():
         break
 
 
