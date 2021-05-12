@@ -83,3 +83,12 @@ def Isaacenigm ():
 		break
 
 # Guess_number()
+
+goodsnakeanswer="break"
+
+def snakeenigm ():
+	userinput=input("Quel est le mot magique pour arrêter mon programme reptilien ? \n")
+	if userinput==goodsnakeanswer:
+		print(story(ifsnakewin))
+	else:
+		break
