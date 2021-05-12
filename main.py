@@ -26,7 +26,10 @@ while(True):
         break
 
 
-#Serge
+while(True):
+    if not(sergeenigm()):
+        break
+
 
 while(True):
     if not(Chance_Maximoum()):
@@ -50,11 +53,9 @@ while(True):
     if not(Isaacenigm()):
         break
 
-print(story("ifhariellewin"))
 
-print(story("ifsnakewin"))
  
-print("ifisaacwin")
+print(story("ifisaacwin"))
 print(story("fin"))
 
 

@@ -16,12 +16,13 @@ def Chance_Eleochat():
 		return True
 
 def Chance_Maximoum():
-	print(story("maximoum"))
+	print(story("Maxime"))
 	input("Fais enter pour re(lancer) les dés")
 	_number = random.randint(1, 12) 
 	print(f"vous avez lancé le dé sur {_number}")
 	if _number > 6:
 		print(f"Vous avez gagné {_number} est bien plus grand que 6, tu continue l'aventure")
+		print(story("ifmaximewin"))
 		return False 
 	elif _number < 6: 
 		print(f"tu as perdu, car {_number} est plus petit que 6")
@@ -119,3 +120,19 @@ def snakeenigm ():
 	else:
 		print("Ce n'est pas ça")
 		return True
+		
+
+
+
+
+
+def sergeenigm ():
+	goodsergeanswer= "DAREDEVIL"
+	userinput=input(story("enigmserge"))
+	userinput= userinput.upper()
+	if userinput==goodsergeanswer:
+		print(story("ifsergewin"))
+		return False 
+	else:
+		print("Ce n'est pas ça, recommencez")
+		return True 
