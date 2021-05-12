@@ -1,7 +1,7 @@
 import random
-
+from story import *
 def Chance_Eleochat():
-    print("bonjour, je m'appelle Eleochat. \nnous allons voir si tu as de la chance. \n je te présente 2 boules de glace. \n la première est au chocolat, la 2ème est à la pistache. \n Choisis bien car l'une d'entre elles te ferai mourir tandis que l'autre te permettra de continuer ton aventure.")
+    
     input("\n Fais enter pour (re)lancer les dés")
     _number = random.randint(1, 2)
     
