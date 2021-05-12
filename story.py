@@ -1,3 +1,7 @@
+presentation="Blindcode4data Entertainment Studio® présente : \n LE DONJON DE FORT DATA"
+
+debut="Après avoir parcouru un long chemin à travers la forêt, vous arrivez en vue d'une immense tour sombre et menacante, encerclé par une douves. \n Vous venez d'arriver devant le donjon de Fort Data... \n Le pont levis est baissé mais une silouhette semble bloquer le chemin menant à la porte. \n En vous approchant vous vous rendez compte qu'il s'agit d'une femme. Arrivé à sa hauteur elle lève les yeux vers vous: "
+
 Harielle="Bonjour voyageur. Derrière moi se trouve le donjon de Fort Data. \n Je m'appele Harielle et je suis la gardienne de ces lieux.\n Si vous souhaitez entrer, vous devrez d'abord résoudre cet anagramme : \n Elle tend la main vers une stèle où sont indiqué des lettres étranges. \n Tapez les lettres dans l'ordre pour former un mot."
 
 ifhariellewin="Une fois l'anagramme résolu, Harielle s'écarte pour vous laisser entrer.\n Après avoir passé la porte, vous vous trouvez dans un couloir illuminé par des torches. \n Sur les murs, vous pouvez voir gravés dans la pierre,des séries de 1 et de 0 un peu partout.  \n Après quelques mètres, vous tombez nez à nez avec une jeune demoiselle qui tient dans chaque main, un pot contenant une boule de glace:"
@@ -39,4 +43,4 @@ enigmissac="nous sommes 2 frères. Nous sommes de vrais jumeaux bien que parfois
 
 ifisaacwin="Quand la réponse est donnée, une lumière aveuglante surgit de l'obscurité. Vous pouvez alors voir face à vous une table de pierre. \n Sur celle-ci apparait un calice orné d'aun oeil ouvert. De ce calice émane la lumière qui est apparue et illumine désormais toute la pièce.\n Félicitations, vous avez terminé le jeu."
 
-credits="CREDITS \n Une production de Blincode4data Entertainment Studio® \n En collaboration avec EQLA Production® & Le Forem Inc® \n EN HOMMAGE A BRUNO DEFALQUE \n Développé par: \n Alain Dufrane \n Jessie Bakashika \n Maxime Borsen"
+fin="CREDITS \n Une production de Blincode4data Entertainment Studio® \n En collaboration avec EQLA Production® & Le Forem Inc® \n EN HOMMAGE A BRUNO DEFALQUE \n Développé par: \n Alain Dufrane \n Jessie Bakashika \n Maxime Borsen"
