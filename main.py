@@ -19,6 +19,15 @@ while(True):
     if not(Chance_Maximoum()):
         break
 
+while(True):
+    print(story("Harielle"))
+    if not(Swap("Blindcode")):
+        break
+
+
+
+
+
 
 
 

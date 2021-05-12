@@ -129,9 +129,8 @@ Félicitations, vous avez terminé le jeu.
 CREDITS
 
 Une production de Blincode4data Entertainment Studio®
-En collaboration avec EQLA Production® & Le Forem Inc®
+En collaboration avec EQLA Production® & Le Forem Interactive®
 Développé par:
 Alain Dufrane
-Bruno Defalque
 Jessie Bakashika
 Maxime Borsen
