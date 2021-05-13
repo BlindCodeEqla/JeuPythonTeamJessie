@@ -40,10 +40,11 @@ def jessie():
 def Swap():  
 	_original = "BLINDCODE"
 	_anagram = "EDOCILBND"
+	print(_anagram)
 	user= input("Entre l'annagramme")
 	user = user.upper()
 	if user == _original:
-		print("Vous avez gagné")
+		print(f"Vous avez gagné, l'anagramme était bien {_anagram}")
 		return False
 	else:
 		print("Ce n'est pas ça")

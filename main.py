@@ -58,7 +58,7 @@ while(True):
 print(story("ifisaacwin"))
 print(story("fin"))
 
-
+time.sleep(15)
 
 
 
